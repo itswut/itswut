@@ -45,7 +45,7 @@
 
 ---  
 ### <img alt="Spotify" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="20" height="20"/> Spotify playing now
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&redirect=true)
   
 ---  
   
