@@ -45,7 +45,7 @@
 
 ---  
 ### <img alt="Spotify" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="20" height="20"/> Spotify playing now
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21mbioes2o6lve2utimd4hpka&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j4zm7yjabgj65hcpw8cz34j5z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
 ---  
   
@@ -57,16 +57,16 @@ if you like what i do, maybe consider buying me a coffee 🙃
 ---
   
 ## 📈 Github Statistics
-<br/>
-   <p align="center">
-     <img alig src="https://github-profile-trophy.vercel.app/?username=Wuuuuuuuuuut&column=7&theme=onedark&column=3&margin-w=15&margin-h=15"/>
-  </p>
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wuuuuuuuuuut&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    &nbsp;
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuuuuuuuuuut&theme=react&line_height=40&hide=css"/>
-    </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&column=7&theme=onedark&column=3&margin-w=15&margin-h=15"/>
+</p>
+
+<div align="center"> 
+  <a href="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  &nbsp;
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=react&line_height=40&hide=css"/>
+  </a>
 </div>
