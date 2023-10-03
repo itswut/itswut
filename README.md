@@ -5,11 +5,15 @@
 [Wuuuuuuuuuut]: https://github.com/Wuuuuuuuuuut
 
 ## 📙 Languages I know
-<code><img height="20" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></code>
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][Wuuuuuuuuuut]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][Wuuuuuuuuuut]
+&nbsp;
+[<img src="https://img.shields.io/badge/LUA-282C34?logo=LUA&logoColor=000080" alt="LUA logo" title="LUA" height="25" />][Wuuuuuuuuuut]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffd040" alt="Python logo" title="Python" height="25" />][Wuuuuuuuuuut]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=1e9e25" alt="C# logo" title="C#" height="25" />][Wuuuuuuuuuut]
   
 ## 🛠 Tools I use
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][Wuuuuuuuuuut]
