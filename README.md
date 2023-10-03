@@ -37,11 +37,15 @@
 
 [Youtube]: https://www.youtube.com/channel/UCKdkeHXkFtxNZuzX9eqHdTg
 
+[Twitch]: https://twitch.tv/itswut
+
 [<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865f2" alt="Discord logo" title="LUA" height="25" />][Discord]
 &nbsp;
 [<img src="https://img.shields.io/badge/Steam-282C34?logo=Steam&logoColor=000000" alt="Steam logo" title="HTML5" height="25" />][Steam]
 &nbsp;
 [<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=ff0000" alt="Youtube logo" title="CSS3" height="25" />][Youtube]
+&nbsp;
+[<img src="https://img.shields.io/badge/itswut-282C34?logo=Twitch&logoColor=purple" alt="Twitch logo" title="Twitch" height="25" />][Youtube]
 
 ---  
 ### <img alt="Spotify" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="20" height="20"/> Spotify playing now
