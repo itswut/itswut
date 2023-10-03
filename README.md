@@ -45,7 +45,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=ff0000" alt="Youtube logo" title="CSS3" height="25" />][Youtube]
 &nbsp;
-[<img src="https://img.shields.io/badge/itswut-282C34?logo=Twitch&logoColor=purple" alt="Twitch logo" title="Twitch" height="25" />][Youtube]
+[<img src="https://img.shields.io/badge/itswut-282C34?logo=Twitch&logoColor=purple" alt="Twitch logo" title="Twitch" height="25" />][Twitch]
 
 ---  
 ### <img alt="Spotify" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" width="20" height="20"/> Spotify playing now
