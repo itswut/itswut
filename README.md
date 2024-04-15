@@ -2,32 +2,41 @@
 
 <b> Welcome to my profile 😃 <br> I am very interested in coding. I am currently a, Rust Developer, Discord Bot Developer and FiveM Developer. 
 
-[Wuuuuuuuuuut]: https://github.com/Wuuuuuuuuuut
+[itswut]: https://github.com/itswut
+
+## </>💻 Simplified Studios
+
+[SDiscord]: https://discord.gg/7YHRdV9San
+[SGithub]: https://github.com/Simplified-Studios
+
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865f2" alt="Discord logo" title="Simplified Discord" height="25" />][SDiscord]
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord logo" title="Simplified GitHub" height="25" />][SGithub]
 
 ## 📙 Languages I know
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/LUA-282C34?logo=LUA&logoColor=000080" alt="LUA logo" title="LUA" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/LUA-282C34?logo=LUA&logoColor=000080" alt="LUA logo" title="LUA" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffd040" alt="Python logo" title="Python" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffd040" alt="Python logo" title="Python" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=1e9e25" alt="C# logo" title="C#" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=1e9e25" alt="C# logo" title="C#" height="25" />][itswut]
   
 ## 🛠 Tools I use
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/NPM-282C34?logo=npm" alt="NPM" title="NPM" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/NPM-282C34?logo=npm" alt="NPM" title="NPM" height="25" />][itswut]
   
 ## 📖 What I am currently learning / improving on
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=1e9e25" alt="C# logo" title="C#" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=1e9e25" alt="C# logo" title="C#" height="25" />][itswut]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffd040" alt="Python logo" title="Python" height="25" />][Wuuuuuuuuuut]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffd040" alt="Python logo" title="Python" height="25" />][itswut]
   
 ## 🔎 Where to find me
 
@@ -39,11 +48,11 @@
 
 [Twitch]: https://twitch.tv/itswut
 
-[<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865f2" alt="Discord logo" title="LUA" height="25" />][Discord]
+[<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=5865f2" alt="Discord logo" title="Discord" height="25" />][Discord]
 &nbsp;
-[<img src="https://img.shields.io/badge/Steam-282C34?logo=Steam&logoColor=000000" alt="Steam logo" title="HTML5" height="25" />][Steam]
+[<img src="https://img.shields.io/badge/Steam-282C34?logo=Steam&logoColor=000000" alt="Steam logo" title="Steam" height="25" />][Steam]
 &nbsp;
-[<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=ff0000" alt="Youtube logo" title="CSS3" height="25" />][Youtube]
+[<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=ff0000" alt="Youtube logo" title="Youtube" height="25" />][Youtube]
 &nbsp;
 [<img src="https://img.shields.io/badge/itswut-282C34?logo=Twitch&logoColor=purple" alt="Twitch logo" title="Twitch" height="25" />][Twitch]
 
