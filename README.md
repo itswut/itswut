@@ -60,7 +60,7 @@ I am a passionate developer specializing in Rust, bots, FiveM, Websites, and fun
 ---
 
 ### 🎵 Spotify Now Playing
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=j4zm7yjabgj65hcpw8cz34j5z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=j4zm7yjabgj65hcpw8cz34j5z&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j4zm7yjabgj65hcpw8cz34j5z&redirect=true)
 
 ---
 
